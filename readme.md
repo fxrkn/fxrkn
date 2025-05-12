@@ -1,3 +1,3 @@
-<a href="https://giphy.com/gifs/3dhmyq6EKw2x7eFt4X">
-  <img alt="GIPHY GIF" src="./img/night.gif" />
+<a href="https://giphy.com/gifs/maudit-my-neighbor-totoro-SBvowbUwAmenC">
+  <img alt="HI!! ( ´ ▽ ` )ﾉ" src="./img/totoro.gif" />
 </a>
